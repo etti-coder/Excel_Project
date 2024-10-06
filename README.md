@@ -16,8 +16,6 @@
 Excel Project is to showcase the attrition rate of a company over the past year. By analysing various aspects of the HR's data, i seek to identify trends, make data-driven decisions, recommendatiions and gain a deeper insights and understanding of the HR's attrition rate.
 
 
-[HR DASH GOIOD.xlsx](https://github.com/user-attachments/files/17173659/HR.DASH.GOIOD.xlsx)
-
 ### Data Sources
 
 HR Data: The primary data set used for this analysis is the "HR_data.csv" file, containing detailed information about the company's employees.
