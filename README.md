@@ -65,7 +65,7 @@ Based on the analysis,i recommendend the following actions:
 
 1. More investment in trainning and Office facilities e.g common areas and staff canteen
 2. Focus on job satisfaction KPIs and ways to improve them
-3. Introduce and Implement improved holidays systme and reward points for regular staffs, etc
+3. Introduce and Implement improved holidays system and reward points for regular staffs, etc
 
 
 ### Limitation
